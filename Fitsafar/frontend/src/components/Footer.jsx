@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="container">
-        <p>&copy; {new Date().getFullYear()} Designed and Developed by Fitsafar Team </p>
+        <p>&copy; {new Date().getFullYear()} Designed and Developed by Shravani Balapure </p>
       </div>
     </footer>
   );
